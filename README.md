@@ -27,8 +27,6 @@ You can customize the website by modifying the HTML and CSS files. Feel free to 
 
 ## Credits
 
-This website template was created by [Your Name] for educational purposes. 
+This website template was created by Shane Varghese for educational purposes. 
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
