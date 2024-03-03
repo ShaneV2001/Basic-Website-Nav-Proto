@@ -26,4 +26,4 @@ You can customize the website by modifying the HTML files. Feel free to update t
 
 ## Credits
 
-This website template was created by Shane Varghese for educational purposes. 
+This website template was created by Shane V for educational purposes. 
