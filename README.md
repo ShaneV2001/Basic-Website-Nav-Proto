@@ -22,7 +22,7 @@ To view the website, simply open any of the HTML files in a web browser.
 
 ## Customization
 
-You can customize the website by modifying the HTML and CSS files. Feel free to update the content, styling, or add new features to suit your needs.
+You can customize the website by modifying the HTML files. Feel free to update the content, styling, or add new features to suit your needs.
 
 ## Credits
 
